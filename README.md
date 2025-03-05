@@ -1,8 +1,22 @@
-# 👋 Olá, me chamo Mariana Okamoto 
-### ✨ Bem vindo/a ao meu perfifl do GitHub ✨
+# Olá 👋 Me chamo Mariana Okamoto
+### Bem vindo/a ao meu perfil do GitHub ✨
 
-<div>
-<a href="https://github.com/mariioka">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariioka&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mariioka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+- Sou estudante de Sistemas de Informação no Mackenzie
+- Tenho interesse em tecnologia, programação e afins
+
+<br/>
+  
+```java 
+if(brain!=empty){
+  keepCoding();
+}else{
+  makeCoffee();
+}
+```
+
+## 🛠 Linguagens e Ferramentas 
+<p align= "center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,git,spring,postgres,mysql" />
+  </a>
+</p>
