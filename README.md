@@ -1,4 +1,5 @@
-## Hi there 👋
+# 👋 Olá, me chamo Mariana Okamoto 👋 
+## ✨ Bem vindo/a ao meu perfifl do GitHub ✨
 
 <!--
 **mariioka/mariioka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
