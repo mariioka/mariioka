@@ -1,5 +1,5 @@
-# 👋 Olá, me chamo Mariana Okamoto 👋 
-## ✨ Bem vindo/a ao meu perfifl do GitHub ✨
+# 👋 Olá, me chamo Mariana Okamoto 
+### ✨ Bem vindo/a ao meu perfifl do GitHub ✨
 
 <div>
 <a href="https://github.com/mariioka">
